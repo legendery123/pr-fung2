@@ -34,6 +34,5 @@ void loop() {
     servo.write(0);
     
   }
-  digitalWrite( b1, LOW);
-  digitalWrite (b ,LOW); 
+  
 }
