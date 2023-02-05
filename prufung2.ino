@@ -20,9 +20,6 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   ts = digitalRead(t);
-  
-  digitalWrite( b1, LOW);
-  digitalWrite (b ,LOW); 
   if (digitalRead(t2)== HIGH and  ts == HIGH ){
     
     
